@@ -1,4 +1,4 @@
-# EXPLOARTY-DATA-ANALYSIS
+# Customer-Churn-EDA
  # Customer Churn Data Analysis
 
 This project explores the **Telco Customer Churn dataset** to identify factors that influence customer churn and retention.  
